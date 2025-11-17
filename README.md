@@ -1,7 +1,3 @@
-Here’s the **updated, fully professional, MVP-ready README-style documentation** for SARLP, including **“Contact Agent” functionality** along with all prior user flows, API endpoints, and data models.
-
----
-
 # 📘 **SARLP – Data Flow & API Documentation (MVP)**
 
 **Version:** 1.1
